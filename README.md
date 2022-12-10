@@ -5,7 +5,7 @@
   * Pure Python script to iterate through comicbook archive (CBZ, CBR, CBT, CB7)
   * one image at a time and convert to a new archive.
   * Use threading where possible with Pillow/PIL for concurrent image/file conversion in memory without using temporary disk space.
-  * Add option for image conversion, e.g. to WebP
+  * Add option for image conversion, e.g. to WebP- https://www.reddit.com/r/comicrackusers/comments/ug8n4i/cb7_vs_cbz/
 
 ## Existing tools
 
