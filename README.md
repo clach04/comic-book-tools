@@ -66,3 +66,5 @@ An approximately 10 times faster alternative, if you *really* need on-device pro
 
 Last edited by NiLuJe; 02-12-2019 at 08:57 PM. Reason: Create true Grayscale PNGs, instead of Indexed RGB (speedier rendering in FBInk ;)). 
 
+
+Koreader handles CBZ better than mobi/epub for comics https://www.mobileread.com/forums/showthread.php?t=343221
