@@ -33,10 +33,15 @@
 
 #### Android
 
+KoReader
+
   * https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer
       * https://challengerviewer.wordpress.com/
+  * https://play.google.com/store/apps/details?id=com.bobaman.aircomix&hl=en_US&gl=US
 
 #### Windows and Linux
+
+KoReader
 
   * https://quivi.sourceforge.net/features.en.html
   * https://github.com/YACReader/yacreader
