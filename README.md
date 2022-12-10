@@ -7,7 +7,7 @@
   * Use threading where possible with Pillow/PIL for concurrent image/file conversion in memory without using temporary disk space.
   * Add option for image conversion, e.g.
       * to WebP - https://www.reddit.com/r/comicrackusers/comments/ug8n4i/cb7_vs_cbz/
-      * https://github.com/wanadev/mozjpeg-lossless-optimization
+      * https://github.com/wanadev/mozjpeg-lossless-optimization also see https://siipo.la/blog/is-webp-really-better-than-jpeg
 
 ## Existing tools
 
@@ -16,6 +16,7 @@
   * https://github.com/Dapbler/cbr2cbz - Python but needs unrar-nonfree (does not work with unrar-free) and ImageMagick. Also requires temporary disk space, uses use mktemp so TEMP os env (TMP, etc.) can be used to avoid writting to SD cards etc and use alternative disk space
       * https://github.com/mikeymakesit/cbr2cbz/tree/valueerror-oldtimestamps - with bug-fix/enhancement for pre-1980 dates
   * https://github.com/clach04/kcc
+      * https://github.com/ciromattia/kcc/pull/416
   * https://github.com/clach04/image_ls
   * https://github.com/comictagger/comictagger
   * https://github.com/gen2brain/cbconvert Go based, requires mageMagick7 and libheif
