@@ -40,3 +40,6 @@
   * https://quivi.sourceforge.net/features.en.html
   * https://github.com/YACReader/yacreader
 
+#### Web browser
+
+  * https://github.com/luejerry/html-mangareader
