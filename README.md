@@ -7,7 +7,7 @@
   * Use threading where possible with Pillow/PIL for concurrent image/file conversion in memory without using temporary disk space.
   * Add option for image conversion, e.g.
       * to WebP - https://www.reddit.com/r/comicrackusers/comments/ug8n4i/cb7_vs_cbz/
-      * https://github.com/wanadev/mozjpeg-lossless-optimization also see https://siipo.la/blog/is-webp-really-better-than-jpeg
+      * https://github.com/wanadev/mozjpeg-lossless-optimization also see https://siipo.la/blog/is-webp-really-better-than-jpeg and https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl
 
 ## Existing tools
 
