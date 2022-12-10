@@ -47,6 +47,10 @@ KoReader
   * https://github.com/YACReader/yacreader
   * WebP and CBR/CBZ - SumatraPdf - open source reader with WebP support (official since version 2.4): http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
 
+#### Kobo
+
+https://github.com/baskerville/plato
+
 #### Web browser
 
   * https://github.com/luejerry/html-mangareader
