@@ -39,6 +39,7 @@
 
   * https://quivi.sourceforge.net/features.en.html
   * https://github.com/YACReader/yacreader
+  * WebP and CBR/CBZ - SumatraPdf - open source reader with WebP support (official since version 2.4): http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html
 
 #### Web browser
 
