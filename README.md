@@ -27,6 +27,7 @@
     * https://github.com/comixed/comixed
   * https://github.com/gen2brain/comic-utils
   * https://github.com/davide-romanini/comicapi - uses unrar python wrapper
+  * https://github.com/proDOOMman/Mangle/blob/master/mangle/rarfile.py pure python support for uncompressed rar (CBR) files with a Python Zip file API
 
 ### Viewers
 
