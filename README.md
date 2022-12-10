@@ -43,3 +43,26 @@
 #### Web browser
 
   * https://github.com/luejerry/html-mangareader
+
+## Conversion tips
+
+From https://www.mobileread.com/forums/showpost.php?p=3728291&postcount=17
+
+As usual, for best results, properly dithered PNGs are your friend .
+
+If you have access to ImageMagick v7, my current rescale + letterbox + grayscale + dither pass of choice looks something like this:
+
+    convert input.png -colorspace Lab -filter LanczosSharp -distort Resize 1080x1429 -colorspace sRGB -background black -gravity center -extent 1080x1429! -grayscale Rec709Luminance -colorspace sRGB -dither Riemersma -remap eink_cmap.gif -quality 75 png:out.png
+
+1080x1429 being the effective resolution of an H2O .
+
+With the cmap attached here.
+
+EDIT:
+
+An approximately 10 times faster alternative, if you *really* need on-device processing:
+
+    convert input.png -filter LanczosSharp -resize 1080x1429 -background black -gravity center -extent '1080x1429!' -colorspace Gray -dither Riemersma -remap eink_cmap.gif -quality 75 png:out.png
+
+Last edited by NiLuJe; 02-12-2019 at 08:57 PM. Reason: Create true Grayscale PNGs, instead of Indexed RGB (speedier rendering in FBInk ;)). 
+
