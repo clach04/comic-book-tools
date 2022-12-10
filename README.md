@@ -25,3 +25,14 @@
     * https://github.com/comixed/comixed
   * https://github.com/gen2brain/comic-utils
   * https://github.com/davide-romanini/comicapi - uses unrar python wrapper
+
+### Viewers
+
+#### Android
+
+  * https://play.google.com/store/apps/details?id=org.kill.geek.bdviewer
+      * https://challengerviewer.wordpress.com/
+
+#### Windows and Linux
+
+  * https://quivi.sourceforge.net/features.en.html
