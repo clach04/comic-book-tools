@@ -9,6 +9,7 @@ Pure Python script to iterate through comicbook archive (CBZ, CBR, CBT, CB7), on
   * https://pkg.go.dev/git.gryffyn.io/gryffyn/cbr2cbz#section-readme
       * git.gryffyn.io/gryffyn/cbr2cbz
   * https://github.com/Dapbler/cbr2cbz - Python but needs unrar-nonfree (does not work with unrar-free) and ImageMagick. Also requires temporary disk space, uses use mktemp so TEMP os env (TMP, etc.) can be used to avoid writting to SD cards etc and use alternative disk space
+      * https://github.com/mikeymakesit/cbr2cbz/tree/valueerror-oldtimestamps - with bug-fix/enhancement for pre-1980 dates
   * https://github.com/clach04/kcc
   * https://github.com/clach04/image_ls
   * https://github.com/comictagger/comictagger
