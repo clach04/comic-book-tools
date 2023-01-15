@@ -21,7 +21,7 @@
       * https://github.com/mikeymakesit/cbr2cbz/tree/valueerror-oldtimestamps - with bug-fix/enhancement for pre-1980 dates
   * https://github.com/clach04/kcc
       * https://github.com/ciromattia/kcc/pull/393
-      * https://github.com/ciromattia/kcc/pull/416
+      * https://github.com/ciromattia/kcc/pull/416 - https://github.com/wanadev/mozjpeg-lossless-optimization
       * https://github.com/ciromattia/kcc/pull/393
   * https://github.com/clach04/image_ls
   * https://github.com/comictagger/comictagger
