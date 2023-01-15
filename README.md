@@ -3,6 +3,7 @@
 ## TODO
 
   * Pure Python script to iterate through comicbook archive (CBZ, CBR, CBT, CB7)
+  * Option for reproducible zip, https://bugs.python.org/issue43547 and https://tanzu.vmware.com/content/blog/barriers-to-deterministic-reproducible-zip-files
   * one image at a time and convert to a new archive (e.g. rar2zip, or compressed archive to uncompressed/stores archive.
   * Use threading where possible with Pillow/PIL for concurrent image/file conversion in memory without using temporary disk space.
   * Add option for image:
