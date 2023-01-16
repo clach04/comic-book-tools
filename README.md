@@ -9,8 +9,8 @@
   * Add option for image:
       * conversion, e.g.
           * MozJPEG for jpegs
-          * [OxiPNG](https://github.com/shssoichiro/oxipng) (skip Zopfli as VERY slow, also see https://rreverser.com/bringing-oxipng-to-squoosh/), optimage, optipng, TinyPNG for png
-          * to WebP - https://www.reddit.com/r/comicrackusers/comments/ug8n4i/cb7_vs_cbz/
+          * [OxiPNG](https://github.com/shssoichiro/oxipng) (skip Zopfli as VERY slow, also see https://rreverser.com/bringing-oxipng-to-squoosh/), [OptiPNG](https://optipng.sourceforge.net/), https://github.com/imagemin/imagemin-cli, optimage,TinyPNG for png
+          * to WebP (cwebp) - https://www.reddit.com/r/comicrackusers/comments/ug8n4i/cb7_vs_cbz/
           * https://github.com/wanadev/mozjpeg-lossless-optimization also see https://siipo.la/blog/is-webp-really-better-than-jpeg and https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl
       * Resizing
       * Resample/reduce colors / dither
@@ -64,7 +64,7 @@ https://github.com/baskerville/plato
 
 ## Conversion tips
 
-From https://www.mobileread.com/forums/showpost.php?p=3728291&postcount=17
+From https://www.mobileread.com/forums/showpost.php?p=3728291&postcount=17 using ImageMagick
 
 As usual, for best results, properly dithered PNGs are your friend .
 
