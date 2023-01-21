@@ -24,6 +24,7 @@
   * https://github.com/clach04/kcc
       * https://github.com/ciromattia/kcc/pull/393
       * https://github.com/ciromattia/kcc/pull/416 - https://github.com/wanadev/mozjpeg-lossless-optimization
+          * https://github.com/ciromattia/kcc/pull/457
       * https://github.com/ciromattia/kcc/pull/393
   * https://github.com/clach04/image_ls
   * https://github.com/comictagger/comictagger
