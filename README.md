@@ -2,7 +2,7 @@
 
 ## TODO
 
-  * Pure Python script to iterate through comicbook archive (CBZ, CBR, CBT, CB7)
+  * Pure Python script to iterate through comicbook archive (CBZ, CBR, CBT, CB7) - see image_ls
   * Option for reproducible zip, https://bugs.python.org/issue43547 and https://tanzu.vmware.com/content/blog/barriers-to-deterministic-reproducible-zip-files
   * one image at a time and convert to a new archive (e.g. rar2zip, or compressed archive to uncompressed/stores archive.
   * Use threading where possible with Pillow/PIL for concurrent image/file conversion in memory without using temporary disk space.
@@ -27,6 +27,7 @@
           * https://github.com/ciromattia/kcc/pull/457
       * https://github.com/ciromattia/kcc/pull/393
   * https://github.com/clach04/image_ls
+  * https://github.com/avalonv/reCBZ - Utility for converting and optimizing comics for e-readers & mobile devices 
   * https://github.com/comictagger/comictagger
   * https://github.com/gen2brain/cbconvert Go based, requires mageMagick7 and libheif
   * https://github.com/davide-romanini/ComicStreamer
